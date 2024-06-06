@@ -16,7 +16,7 @@ pygame.display.set_caption('Flappy Bird')
 
 
 #define font
-font = pygame.font.SysFont('Bauhaus 93', 60)
+font = pygame.font.SysFont('Berkshire', 60)
 
 #define colors
 white = (255,255,255)
